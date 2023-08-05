@@ -1,4 +1,4 @@
-package com.tsm.java.workshop;
+package com.tsm.java.workshop.session1;
 
 public class AddTwoNumbers {
     public static void main(String[] args) {
