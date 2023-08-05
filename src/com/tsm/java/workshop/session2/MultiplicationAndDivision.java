@@ -9,7 +9,7 @@ public class MultiplicationAndDivision {
         System.out.println("Result of Multiplication="+result2);
     }
 
-    private static int division(int x, int y) {
+    public static int division(int x, int y) {
         return x/y;
     }
 
